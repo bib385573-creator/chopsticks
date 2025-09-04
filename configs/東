@@ -1,0 +1,4 @@
+# npx @acala-network/chopsticks@latest --config= url | path | config_file_name
+# i.e: using configs/acala.yml
+
+npx @acala-network/chopsticks@latest -c acala
